@@ -1,1 +1,14 @@
 # CS-230
+## Module Eight Journal
+### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+We were to take roll as a Technology Consultant for our client, The Gaming Room. They were looking to develop a web-based game serving multiple platforms based on their current game, Draw It or Lose It. For software, we provided a Java application for the game along with code for Server side and and design document detailing everything they should consider when making their choices for hardware and other aspecs of the game.
+### What did you do particularly well in developing this documentation?
+I would argue as a whole my information gathering went well for the documentation, if we can count it, I do believe my code was good after it took the bit to get figured out.
+### What about the process of working through a design document did you find helpful when developing the code?
+Using the domain model was very useful, it provided a clear cut of everything that was needed from the code which was a good reference when you weren't sure what to include. It was also great to be able to refer back to the document for a clear overview of everything going on into the project.
+### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+Maybe some of the specific information particularly within the evaluation section. While I think I aswered them adequatly, it would have been a greater benefit to include more research to be more thorough with my answers.
+### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+The user's needs guided this entire project. The best way I found to help implement them was to place myself as the user and try and figure out what else could have been beneficial from my stance or what I would have liked to see personally. At the end of the day, the user is the person who is going to be spending time with the game, if we do not consider their needs then why would they give the game any time of day?
+### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+It took a decent amount of work on my end, I have not particularly liked Java so far from the courses, so I had to do some extra research/learning separately to ensure I actually knew what I was doing. I spent a lot of time looking over the additional code that was provided and already completed, which helped form a guideline of how my code should roughly be formated, then when I ran into issues or road blocks I tried to find outside sources of code solving similar problems and worked it around until it worked for our project.
